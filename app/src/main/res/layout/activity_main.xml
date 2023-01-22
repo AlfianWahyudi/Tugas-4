@@ -50,7 +50,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight=".5"
                 android:gravity="center"
-                android:hint="0.0"
+                android:hint="-6.1840711"
                 android:textColor="@android:color/black"
                 android:textSize="16sp" />
 
@@ -78,7 +78,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight=".5"
                 android:gravity="center"
-                android:hint="0.0"
+                android:hint="106.8315307"
                 android:textColor="@android:color/black"
                 android:textSize="16sp" />
 
